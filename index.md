@@ -1,123 +1,73 @@
-t---
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Security Vulnerability
-
-this is demo project name
-
-## Checkmarx
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# _**Profile**_
+* Microsoft Certified Azure Developer(Az-204), Azure Fundamentals(Az-900)
+* Development level experience in Microsoft Azure, ASP.NET, C#, Web API,MVC, JavaScript, Angular, and Bootstrap.
+* Extensive experience with Scrum and Waterfall Software development methodologies.
+* Expertise in analysis, design, and development of custom solutions/application using Microsoft technology stack.
+* Expertise in OWASP security technologies
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# _**Professional Experience**_
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+**Xoriant**, as _Software Engineer_ - May'21 to present
+**Capgemini** as _Associate Consultant_ - Nov'16 to May'21
 ```
 
-```
-The final element.
-```
+* * *
+
+# _**Projects**_
+
+Below are the projects, worked in the professional experience:
+
+## Migration of application logs from database to cloud(Kibana)
+
+> Currently working as Lead Senior Developer in this project, which monitors and handles the exception logs, for better performance of the web application
+> My role is to use user’s distributed applications and services, trace resource utilization, and monitor the health and performance through Kibana, Grafana and ChatOps applications
+> Responsible for Orchestrating and completely automating build and deployment process on DevOps
+
+## Security Vulnerability fix through Checkmarx
+
+> Worked as Senior Developer in CheckMarx cx-Loyalty project, which handles application'ssecurity testing in seamless waysfor developers through industry-defining innovation.
+> My role was to lead scrum meetings, gather sprint requirements after discussion with development managers on possible vulnerabilities, and performs peer’s code review to avoid any code quality issues.
+> Responsible for security of application's developmental large modules from advance exploitable threats and apply feasible solution to the existing project to protect from external attacks.
+> **Achieved “Spot Award” for the year 2021.**
+
+## Application packaging through wix
+
+> Worked as Senior developer for McD project, which involves streamlining software configuration, deployment, and application packaging.
+> Responsible for building, testing, and deploying scalable, highly available and modular software products.
+> Streamlined deployment process by developing continuous integration tools. 
+> Strengthened developmental methodologies by introducing a code quality document.
+> Trained new members of the team about the programming standards and provide Knowledge Transfer sessions for overall growth of the team.
+
+## Factoring legacy project 
+
+> Worked as developer in an integration project, which involves support and module enhancements to Factorlink application used by General Electric. 
+> Performed software modification on major development quarterly projects, managed documentations like Impact Analysis, Unit testing and day-to-day service level management.
+> **Achieved various awardsi.e "CustomerDelight", "StarAward" in the field of delivery of Clients and excellent performances**
+
+* * *
+
+# Skills
+
+*   ASP.NET
+*   C#
+*   Azure
+*   OWASP
+*   Angular
+*   MVC/ADO
+
+* * *
+
+# Tools Understanding
+
+*   Github/TFS
+*   Visual Studio Professional
+*   Jira
+*   Azure DevOps
+*   CheckMarx
+*   Postman/Fiddler
+*   Kibana/Grafana
+
+* * *
