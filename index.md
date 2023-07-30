@@ -1,5 +1,5 @@
 # _**Profile**_
-* Microsoft Certified Azure Developer(Az-204), Azure Fundamentals(Az-900)
+* Microsoft Certified Azure Developer(Az-204), Azure Fundamentals(Az-900), Azure AI Fundamentals (AI-900)
 * Development level experience in Microsoft Azure, ASP.NET, C#, Web API,MVC, JavaScript, Angular, and Bootstrap.
 * Extensive experience with Scrum and Waterfall Software development methodologies.
 * Expertise in analysis, design, and development of custom solutions/application using Microsoft technology stack.
@@ -10,7 +10,7 @@
 # _**Professional Experience**_
 
 ```
-Xoriant, as Software Engineer : May'21 to present
+Xoriant, as Senior Software Engineer : May'21 to present
 Capgemini as Associate Consultant : Nov'16 to May'21
 ```
 
