@@ -36,7 +36,7 @@ Below are the projects, worked in the professional experience:
 > 
 > Responsible for security of application's developmental large modules from advance exploitable threats and apply feasible solution to the existing project to protect from external attacks.
 > 
-> **Achieved “Spot Award” for the year 2021.**
+> **Achieved “Spot Award” for the year 2022 and 2023.**
 
 ## Application packaging through wix
 
