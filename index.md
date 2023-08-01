@@ -62,23 +62,26 @@ Below are the projects, worked in the professional experience:
 
 # Skills
 
-*   ASP.NET
-*   C#
-*   Azure
-*   OWASP
-*   Angular
-*   MVC/ADO
+* *Programming Languages*: ASP.NET, C#, Angular, Python
+* *Cloud Platforms*: Azure
+* *Application Security*: OWASP, CheckMarx
+* *Web Development*: HTML5, CSS3, JavaScript
+* *Project Management*: Jira, Azure DevOps
+* *API Testing*: Postman/Fiddler
+* *Performance Monitoring*: Kibana/Grafana
+* *Database*: MySQL
+* *Machine Learning Libraries*: TensorFlow, Keras, Pandas, NumPy, scikit-learn, Seaborn, Matplotlib
+* *Data Science Tools*: Anaconda, Jupyter Notebook
+* *Version Control*: Git, GitHub, TFS
+* *Integrated Development Environment*: Visual Studio
 
 * * *
 
-# Tools Understanding
+# Certifications
 
-*   Github/TFS
-*   Visual Studio Professional
-*   Jira
-*   Azure DevOps
-*   CheckMarx
-*   Postman/Fiddler
-*   Kibana/Grafana
+* Microsoft Certified : Azure AI Fundamentals
+* Microsoft Certified : Azure Developer Associate
+* Six Sigma White Belt Certification
+* Microsoft Certified : Azure Fundamentals
 
 * * *
